@@ -11,7 +11,7 @@ span {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    color: white;
+    color: black;
     font-family: 'Josefin Sans', sans-serif;
     scroll-behavior: smooth;
     text-transform: capitalize;
@@ -309,7 +309,7 @@ button {
     width: 20%;
     height: 200%;
     position: absolute;
-    background-color: #ffffff18;
+    background-color: #6699ff;
     box-shadow: 2px 2px 30px 30px #ffffff18;
     rotate: 20deg;
     animation: var(--beforestyl);
