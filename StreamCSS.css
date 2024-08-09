@@ -1,5 +1,5 @@
 :root {
-    --mycol: #ff003c;
+    --mycol: #ff580a;
     --gcol: linear-gradient(to right, red, blue);
 }
 
@@ -309,8 +309,8 @@ button {
     width: 20%;
     height: 200%;
     position: absolute;
-    background-color: #6699ff;
-    box-shadow: 2px 2px 30px 30px #ffffff18;
+    background-color: #0a9dff;
+    box-shadow: 2px 2px 30px 30px #0a9dff;
     rotate: 20deg;
     animation: var(--beforestyl);
     filter: contrast(100);
