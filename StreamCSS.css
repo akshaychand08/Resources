@@ -1,5 +1,5 @@
 :root {
-    --mycol: #ff580a;
+    --mycol: #ff003c;
     --gcol: linear-gradient(to right, red, blue);
 }
 
@@ -25,7 +25,7 @@ html,
 body {
     height: 100%;
     width: 100%;
-    background-image: url(https://i.postimg.cc/pL0bwbnf/d08b929e2920025228c4e59decbb8d58.jpg);
+    background-image: url(https://i.postimg.cc/pL9h5Sqg/9386bacf3518c4b3846c6979f1cbe229.jpg);
 }
 
 
@@ -309,8 +309,8 @@ button {
     width: 20%;
     height: 200%;
     position: absolute;
-    background-color: #0a9dff;
-    box-shadow: 2px 2px 30px 30px #0a9dff;
+    background-color: #ffffff18;
+    box-shadow: 2px 2px 30px 30px #ffffff18;
     rotate: 20deg;
     animation: var(--beforestyl);
     filter: contrast(100);
@@ -606,4 +606,4 @@ button:active {
         transform: translate(75px, -40px);
 
     }
-}
+        }
